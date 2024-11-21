@@ -125,4 +125,3 @@ node_modules
 ## Environment
 ##############################
 .env
-application.properties
